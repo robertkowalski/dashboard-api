@@ -1,0 +1,28 @@
+{
+  "name": "dashboard-api",
+  "version": "0.0.0",
+  "description": "dashboard api",
+  "main": "server.js",
+  "dependencies": {
+    "hapi": "~6.4.0"
+  },
+  "devDependencies": {
+    "lab": "~4.0.0"
+  },
+  "scripts": {
+    "test": "lab -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robertkowalski/dashboard-api.git"
+  },
+  "homepage": "https://github.com/robertkowalski/dashboard-api",
+  "keywords": [
+    "dashboard"
+  ],
+  "author": "Robert Kowalski <rok@kowalski.gd>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/robertkowalski/dashboard-api/issues"
+  }
+}

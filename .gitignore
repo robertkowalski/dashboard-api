@@ -1,0 +1,15 @@
+*.swp
+.*.swp
+
+.DS_Store
+*~
+.project
+.settings
+npm-debug.log
+coverage.html
+.idea
+*.iml
+lib-cov
+
+node_modules
+selenium-server-standalone-*.jar
