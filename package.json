@@ -4,9 +4,11 @@
   "description": "dashboard api",
   "main": "server.js",
   "dependencies": {
-    "hapi": "~6.4.0"
+    "hapi": "~6.4.0",
+    "peanuts": "~1.0.1"
   },
   "devDependencies": {
+    "hock": "~0.2.5",
     "lab": "~4.0.0",
     "request": "~2.40.0"
   },
